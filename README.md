@@ -7,8 +7,8 @@
 <h3 align="center">Esses são meus GitHub stats.</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats-eight.vercel.app/api?username=PRuiz00&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="170" alt="stats graph" />
-  <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=PRuiz00&layout=compact&theme=dracula&langs_count=5" height="170" alt="languages graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PRuiz00&theme=dracula" height="170" alt="streak stats" />
+  <img src="https://github-readme-stats-readme.vercel.app/api/top-langs/?username=PRuiz00&layout=compact&theme=dracula&langs_count=5" height="170" alt="languages graph" />
 </div>
 
 <br/>
